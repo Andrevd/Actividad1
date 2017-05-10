@@ -21,6 +21,6 @@ public class TRABAJADOR extends PERSONA{
 
     public Date getFeiniC() {
         return FeiniC;
-    }
+    }//hola
     
    }
